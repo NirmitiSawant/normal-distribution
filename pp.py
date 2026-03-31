@@ -32,7 +32,7 @@ body, .main {
 
 /* Card */
 .card {
-    background-color: rgba(255,255,255,0.18);
+background-color: rgba(255,255,255,0.18);
     border-radius: 25px;
     border: 1px solid rgba(255,255,255,0.5);
     padding: 60px 50px;
