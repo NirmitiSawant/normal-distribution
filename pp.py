@@ -14,7 +14,7 @@ if "page" not in st.session_state:
  
 st.markdown("""
 <style>
-[data-testid="stAppViewContainer"] {
+ [data-testid="stAppViewContainer"] {
     background-color: #4A90E2;
 }
 </style>
