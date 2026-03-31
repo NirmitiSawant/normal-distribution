@@ -65,7 +65,7 @@ div.stButton > button {
 
 /* Symbols */
 .symbol {
-    position: absolute;
+ position: absolute;
     font-size: 20px;
     color: rgba(255,255,255,0.6);
     animation: drop linear infinite;
