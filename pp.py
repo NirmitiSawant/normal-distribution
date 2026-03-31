@@ -7,7 +7,7 @@ st.set_page_config(page_title="Normal Distribution Explorer", page_icon="📊", 
 
 # --- SESSION STATE ---
 if "page" not in st.session_state:
-    st.session_state.page = "home"
+     st.session_state.page = "home"
 
 # --- CSS ---
 
