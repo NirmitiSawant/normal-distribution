@@ -105,7 +105,7 @@ with col1:
         st.rerun()
 
 with col2:
-    if st.button("Info"):
+     if st.button("Info"):
         st.session_state.page = "info"
         st.rerun()
 
